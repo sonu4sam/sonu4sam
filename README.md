@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sonu4sam
+- 👋 Hi, I’m Sourav
 - 👀 I’m interested in ... technology.
 - 🌱 I’m currently learning ... Deep Learning
 - 💞️ I’m looking to collaborate on ... open-source projects. 
